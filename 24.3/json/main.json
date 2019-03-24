@@ -1,0 +1,64 @@
+{
+    "animals": [
+        {
+            "name": "cow",
+            "weight": 5,
+            "location": "india",
+            "endangered": false,
+            "food": [
+                "grass",
+                "flowers"
+            ],
+            "predators": [
+                "lion",
+                "jaguar"
+            ],
+            "delicious": 5
+        },
+        {
+            "name": "elephant",
+            "weight": 5,
+            "location": "india",
+            "endangered": false,
+            "food": [
+                "grass",
+                "flowers"
+            ],
+            "predators": [
+                "lion",
+                "jaguar"
+            ],
+            "delicious": 5
+        },
+        {
+            "name": "gray wolf",
+            "weight": 5,
+            "location": "india",
+            "endangered": false,
+            "food": [
+                "grass",
+                "flowers"
+            ],
+            "predators": [
+                "lion",
+                "jaguar"
+            ],
+            "delicious": 5
+        },
+        {
+            "name": "squirrel",
+            "weight": 5,
+            "location": "india",
+            "endangered": false,
+            "food": [
+                "grass",
+                "flowers"
+            ],
+            "predators": [
+                "lion",
+                "jaguar"
+            ],
+            "delicious": 5
+        }
+    ]
+}
