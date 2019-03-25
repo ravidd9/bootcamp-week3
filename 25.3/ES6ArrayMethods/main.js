@@ -327,6 +327,8 @@ let users = [
   //2
   // let u2 = users.filter(u => u.address.zipcode[0] == 5)
   // console.log(u2)
+
+  
   
   
   //3
@@ -354,5 +356,4 @@ let users = [
   // }
   // users.forEach(u => f1(u))
 
-  
   
